@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/SportyGuru/static/css/main.962f3fc9.css",
+    "main.js": "/SportyGuru/static/js/main.7b777d83.js",
+    "index.html": "/SportyGuru/index.html",
+    "main.962f3fc9.css.map": "/SportyGuru/static/css/main.962f3fc9.css.map",
+    "main.7b777d83.js.map": "/SportyGuru/static/js/main.7b777d83.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.962f3fc9.css",
+    "static/js/main.7b777d83.js"
+  ]
+}
